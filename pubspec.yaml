@@ -1,6 +1,6 @@
 name: live_event
-description: Event without data.
-version: 0.0.1
+description: An event without data, using StreamController to be used in flutter projects.
+version: 0.0.2
 homepage: https://github.com/javaherisaber/live_event
 
 environment:
@@ -14,3 +14,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^1.0.0

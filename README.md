@@ -1,7 +1,7 @@
 # live_event
 [![pub package](https://img.shields.io/pub/v/live_event.svg)](https://pub.dartlang.org/packages/live_event)
 
-An event without data, using StreamController.
+An event without data, using StreamController to be used in flutter projects.
 
 ## Getting started
 Have you been creating StreamControllers without data like this?
